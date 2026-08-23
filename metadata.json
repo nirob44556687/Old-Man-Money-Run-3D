@@ -1,0 +1,6 @@
+{
+  "name": "বুড়া টাকার ব্যাগ",
+  "description": "An exciting cartoon 2D chase and endless runner game featuring the hilarious chase of the old man with a huge money bag escaping an angry chaser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
